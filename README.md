@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Hazel</h1>
 <h3 align="center">i aspire to become a full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/22/13/f82213b334541c0a2e83e3bf733f881f.gif">
+<img align="right" alt="Coding" width="100" src="https://i.pinimg.com/originals/df/08/ba/df08baff39194a78624b6d793e4da2d3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnanodesu&label=Profile%20views&color=0e75b6&style=flat" alt="vnanodesu" /> </p>
 
